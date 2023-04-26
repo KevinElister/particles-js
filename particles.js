@@ -1,3 +1,6 @@
+/*-------------------------------------------
+/* v1.0.0
+/*-------------------------------------------*/
 particlesJS("particles-js", {
   particles: {
     number: { value: 80, density: { enable: true, value_area: 800 } },
